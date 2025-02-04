@@ -18,4 +18,7 @@ Each sample follows the naming format: [Sound Category] - [Sample Number] - [Lab
 | Explosions    | 15    | Boat             | 33    | Rocket          | 52    |                  |       |
 | Fire          | 17    | Jet              | 35    | Concrete Debris | 54    |                  |       |
 
- 
+ The dataset is available for download in Zenodo: https://zenodo.org/records/14517916
+ Paper of the Dateset: https://arxiv.org/abs/2501.17198
+
+ In Github you will find the scripts for trimming, down-mixing, and labeling sound samples in the dataset, designed for streamlined audio processing and analysis.
